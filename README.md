@@ -1,6 +1,6 @@
 # My Portfolio Website
 
-A modern, clean, and professional portfolio website built with React and Tailwind CSS. This portfolio showcases the skills, projects, and aspirations of a 4th-year Software Engineering student at Mekelle University.
+A modern, clean, and professional portfolio website built with React and Tailwind CSS. This portfolio showcases the skills, projects, and my aspirations .
 
 ## Features
 
