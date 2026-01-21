@@ -18,9 +18,7 @@ const Hero = () => {
       <div className="section-container text-center">
         <div className="max-w-4xl mx-auto">
           <div className="mb-6">
-            <span className="inline-block px-4 py-2 bg-primary-100 text-primary-700 rounded-full text-sm font-medium mb-4">
-              4th Year Software Engineering Student
-            </span>
+            
           </div>
           
           <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold text-gray-900 mb-6 leading-tight">
@@ -29,7 +27,7 @@ const Hero = () => {
           </h1>
           
           <p className="text-xl md:text-2xl text-gray-600 mb-8 leading-relaxed">
-            Aspiring <span className="font-semibold text-gray-900">Game/App Developer</span> &{' '}
+            Aspiring <span className="font-semibold text-gray-900">Software Developer, Game/App Developer</span> &{' '}
             <span className="font-semibold text-gray-900">3D Animation Designer</span>
           </p>
           
@@ -58,7 +56,7 @@ const Hero = () => {
               <FaLinkedin size={20} />
             </a>
             <a
-              href="mailto:your.email@example.com"
+              href="mailto:hilawigirmachew@gmail.com"
               className="w-12 h-12 bg-primary-600 text-white rounded-full flex items-center justify-center hover:bg-primary-700 transition-all duration-300 transform hover:scale-110"
               aria-label="Email"
             >
