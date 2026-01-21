@@ -50,27 +50,7 @@ npm run build
 
 The built files will be in the `dist` directory.
 
-## Customization
 
-Before deploying, make sure to update the following:
-
-1. **Personal Information** (`src/components/Hero.jsx`):
-   - Replace `[Your Name]` with your actual name
-   - Update social media links (GitHub, LinkedIn, Email)
-
-2. **Contact Information** (`src/components/Contact.jsx`):
-   - Update email address
-   - Update phone number
-   - Verify location
-
-3. **Projects** (`src/components/Projects.jsx`):
-   - Add your actual projects with descriptions
-   - Update GitHub links
-   - Add demo links if available
-
-4. **Skills** (`src/components/Skills.jsx`):
-   - Adjust skill levels as needed
-   - Add or remove technologies based on your expertise
 
 ## Project Structure
 
