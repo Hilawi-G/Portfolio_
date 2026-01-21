@@ -46,7 +46,7 @@ const Footer = () => {
             <h3 className="text-white text-lg font-semibold mb-4">Connect</h3>
             <div className="flex space-x-4">
               <a
-                href="https://github.com"
+                href="https://github.com/Hilawi-G"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-10 h-10 bg-gray-800 rounded-lg flex items-center justify-center hover:bg-primary-600 transition-colors"
@@ -55,7 +55,7 @@ const Footer = () => {
                 <FaGithub size={18} />
               </a>
               <a
-                href="https://linkedin.com"
+                href="https://linkedin.com/in/hlawi-girmachew"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-10 h-10 bg-gray-800 rounded-lg flex items-center justify-center hover:bg-blue-600 transition-colors"
@@ -64,7 +64,7 @@ const Footer = () => {
                 <FaLinkedin size={18} />
               </a>
               <a
-                href="mailto:your.email@example.com"
+                href="mailto:hilawigirmachew@gmail.com"
                 className="w-10 h-10 bg-gray-800 rounded-lg flex items-center justify-center hover:bg-primary-600 transition-colors"
                 aria-label="Email"
               >

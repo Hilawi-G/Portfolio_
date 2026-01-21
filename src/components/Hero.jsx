@@ -38,7 +38,7 @@ const Hero = () => {
 
           <div className="flex justify-center space-x-6 mb-16">
             <a
-              href="https://github.com"
+              href="https://github.com/Hilawi-G"
               target="_blank"
               rel="noopener noreferrer"
               className="w-12 h-12 bg-gray-900 text-white rounded-full flex items-center justify-center hover:bg-primary-600 transition-all duration-300 transform hover:scale-110"
@@ -47,7 +47,7 @@ const Hero = () => {
               <FaGithub size={20} />
             </a>
             <a
-              href="https://linkedin.com"
+              href="https://linkedin.com/in/hlawi-girmachew-3b092039b"
               target="_blank"
               rel="noopener noreferrer"
               className="w-12 h-12 bg-blue-600 text-white rounded-full flex items-center justify-center hover:bg-blue-700 transition-all duration-300 transform hover:scale-110"

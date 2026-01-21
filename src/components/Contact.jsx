@@ -93,7 +93,7 @@ const Contact = () => {
 
             <div className="flex space-x-4">
               <a
-                href="https://linkedin.com"
+                href="https://linkedin.com/in/hlawi-girmachew-3b092039b"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-12 h-12 bg-blue-600 text-white rounded-lg flex items-center justify-center hover:bg-blue-700 transition-colors"
@@ -102,7 +102,7 @@ const Contact = () => {
                 <FaLinkedin size={20} />
               </a>
               <a
-                href="https://github.com"
+                href="https://github.com/Hilawi-G"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-12 h-12 bg-gray-900 text-white rounded-lg flex items-center justify-center hover:bg-primary-600 transition-colors"

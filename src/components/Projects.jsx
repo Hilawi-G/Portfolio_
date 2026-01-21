@@ -32,7 +32,7 @@ const Projects = () => {
       title: 'Project in progress',
       description: '',
       technologies: [],
-      github: 'https://github.com',
+      github: 'https://github.com/Hilawi-G',
       demo: '#',
       image: null,
     },
@@ -104,7 +104,7 @@ const Projects = () => {
             More projects are in progress. Check back soon or visit my GitHub for updates!
           </p>
           <a
-            href="https://github.com"
+            href="https://github.com/Hilawi-G"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center px-6 py-3 bg-gray-900 text-white rounded-lg hover:bg-primary-600 transition-colors duration-300"
