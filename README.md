@@ -75,17 +75,7 @@ MY_PORTFOLIO/
 └── README.md
 ```
 
-## Deployment
 
-This project can be deployed to various platforms:
-
-- **Vercel**: Connect your GitHub repository
-- **Netlify**: Drag and drop the `dist` folder after building
-- **GitHub Pages**: Use GitHub Actions or manual deployment
-
-## License
-
-This project is open source and available under the MIT License.
 
 ## Contact
 
