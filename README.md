@@ -4,7 +4,7 @@ A modern, clean, and professional portfolio website built with React and Tailwin
 
 ## Features
 
-- 🎨 **Clean & Minimalist Design** - Professional appearance that appeals to employers
+- 🎨 **Clean & Minimalist Design** - Professional appearance
 - 📱 **Fully Responsive** - Works seamlessly on all devices
 - ⚡ **Modern UI/UX** - Smooth animations and transitions
 - 🎯 **Well-Organized Sections**:
@@ -74,9 +74,6 @@ MY_PORTFOLIO/
 ├── vite.config.js
 └── README.md
 ```
-
-
-
 ## Contact
 
 For questions or inquiries, please reach out through the contact form on the website.
