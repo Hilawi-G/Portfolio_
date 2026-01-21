@@ -4,13 +4,14 @@ import { FaGithub, FaExternalLinkAlt } from 'react-icons/fa'
 const Projects = () => {
   const projects = [
     {
-      title: 'PDF to Audio Converter Using ',
+      title: 'PDF to Audio Converter ',
       description: 'A simple web based app that coverts a PDF file into an Audio. i built it using python ,this app features customizable voice selection and adjustable speech speed controls',
       technologies: ['Python'],
       github: 'https://github.com',
       demo: '#',
       image: null,
     },
+    
     {
       title: 'Task organization app',
       description: 'An application showcasing my understanding of software engineering principles and clean code practices.',
@@ -20,9 +21,17 @@ const Projects = () => {
       image: null,
     },
     {
+      title: 'Library management system ',
+      description: 'A library management system built with python ,to help orgainse books , see avilabel ones to borrow , recorded of borrowed books and some additional features',
+      technologies: ['Python'],
+      github: 'https://github.com',
+      demo: '#',
+      image: null,
+    },
+    {
       title: 'Project in progress',
       description: '',
-      technologies: ['Java', 'Python'],
+      technologies: [],
       github: 'https://github.com',
       demo: '#',
       image: null,

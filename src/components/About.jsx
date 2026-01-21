@@ -3,14 +3,14 @@ import React from 'react'
 const About = () => {
   return (
     <section id="about" className="section-container bg-white">
-      <div className="max-w-4xl mx-auto">
+      <div className="max-w-4x mx-auto">
         <h2 className="section-title text-center">About Me</h2>
         <p className="section-subtitle text-center">
           Get to know my journey and aspirations
         </p>
 
-        <div className="prose prose-lg max-w-none">
-          <div className="bg-gray-50 rounded-2xl p-8 md:p-12 mb-8">
+        <div className="prose prose-lg max-w-none ">
+          <div className="bg-gray-50 rounded-2xl p-8 md:p-12 mb-8 ">
             <p className="text-gray-700 leading-relaxed mb-6">
               I am a 4th-year Software Engineering student at <strong className="text-gray-900">Mekelle University</strong>, 
               with a passion for creating innovative digital experiences. My journey in software development 
@@ -44,7 +44,7 @@ const About = () => {
               <h3 className="text-xl font-semibold text-gray-900 mb-3">Career Goals</h3>
               <ul className="text-gray-700 space-y-2">      
                 
-                <li>• Mobile & Web App Development</li>
+                <li>• Mobile App and web Development</li>
                 <li>• Game Development</li>
                 <li>• 3D Modeling & Animation</li>
                 <li>• Full Stack Development</li>
